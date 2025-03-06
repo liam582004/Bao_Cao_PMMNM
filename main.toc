@@ -1,0 +1,6 @@
+\babel@toc {vietnamese}{}\relax 
+\contentsline {chapter}{Lời cảm ơn}{2}{}%
+\contentsline {chapter}{\numberline {1}GIỚI THIỆU}{3}{}%
+\contentsline {section}{\numberline {1.1}Giới thiệu sơ lược về đề tài}{3}{}%
+\contentsline {section}{\numberline {1.2}Lý do chọn đề tài}{3}{}%
+\contentsline {section}{\numberline {1.3}Mục tiêu}{4}{}%
