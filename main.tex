@@ -7,29 +7,33 @@
 \begin{document}
 
 % Trang bìa
-\input{header/title}
+\input{pages/title}
 
 % Mục lục
 \tableofcontents
 \newpage
 
 % Lời cảm ơn
-\input{header/thanks}
+\input{pages/thanks}
 
 \newpage
 
 % Giới thiệu đề tài
 \chapter{GIỚI THIỆU}
-\section{Giới thiệu sơ lược về đề tài}
-\input{chapters/chapter1/SoLuoc}
+\input{chapters/1_GioiThieu.tex}
 
 
-\section{Lý do chọn đề tài}
-\input{chapters/chapter1/LyDo}
+% Đặc tả yêu cầu
+\chapter{ĐẶC TẢ YÊU CẦU PHẦN MỀM}
+\input{chapters/2_DacTa.tex}
+
+% Kiến trúc phần mềm
+\chapter{KIẾN TRÚC PHẦN MỀM}
+\input{chapters/3_KienTrucPhanMen.tex}
 
 
-\section{Mục tiêu}
-\input{chapters/chapter1/MucTieu}
-
+% ERD
+\chapter{CƠ SỞ DỮ LIỆU}
+\input{chapters/4_CSDL.tex}
 
 \end{document}
