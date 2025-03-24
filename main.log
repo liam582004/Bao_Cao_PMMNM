@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  17 MAR 2025 11:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  25 MAR 2025 01:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -303,31 +303,38 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 19.
  [1
 
-{C:/Users/HOME/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imgs/logo.png>]) (main.toc [1
-
-])
+{C:/Users/HOME/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./imgs/logo.png>]) (main.toc)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2] (pages/thanks.tex) [3
+ [1
+
+] (pages/thanks.tex) [2
 
 ]
 Ch\uhorn \ohorn ng 1.
-(chapters/1_GioiThieu.tex (pages/chap1/SoLuoc.tex) (pages/chap1/LyDo.tex) (pages/chap1/MucTieu.tex [4
+(chapters/1_GioiThieu.tex (pages/chap1/SoLuoc.tex) (pages/chap1/LyDo.tex) (pages/chap1/MucTieu.tex [3
 
-])) [5]
+])) [4]
 Ch\uhorn \ohorn ng 2.
-(chapters/2_DacTa.tex (pages/chap2/YeuCauChucNang.tex [6
+(chapters/2_DacTa.tex (pages/chap2/YeuCauChucNang.tex [5
 
-]) (pages/chap2/YeuCauPhiChucNang.tex [7])) [8]
+]) (pages/chap2/YeuCauPhiChucNang.tex [6])) [7]
 Ch\uhorn \ohorn ng 3.
-(chapters/3_KienTrucPhanMen.tex (pages/chap3/ThanhPhanphanMem.tex [9
+(chapters/3_KienTrucPhanMen.tex (pages/chap3/MoHinhUngDung.tex [8
 
-]) (pages/chap3/CongCu.tex [10]) (pages/chap3/KienTrucPhanMem.tex [11]) (pages/chap3/SuDungLatex.tex
-LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 12.
- (C:\Users\HOME\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmtt.fd
-File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-))) [12]
+]) (pages/chap3/CongCu.tex [9] [10]) (pages/chap3/KienTrucPhanMem.tex
+<imgs/API.png, id=43, 831.105pt x 359.3425pt>
+File: imgs/API.png Graphic file (type png)
+<use imgs/API.png>
+Package pdftex.def Info: imgs/API.png  used on input line 6.
+(pdftex.def)             Requested size: 390.0pt x 168.62231pt.
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 6--7
+[][] 
+ []
+
+[11 <./imgs/API.png (PNG copy)>])) [12]
 Ch\uhorn \ohorn ng 4.
 (chapters/4_CSDL.tex
 <imgs/ERD.png, id=51, 5362.0325pt x 2299.59125pt>
@@ -349,17 +356,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3446 strings out of 474486
- 62872 string characters out of 5744228
- 1934542 words of memory out of 5000000
- 25663 multiletter control sequences out of 15000+600000
- 571224 words of font info for 57 fonts, out of 8000000 for 9000
+ 3423 strings out of 474486
+ 62345 string characters out of 5744228
+ 1932542 words of memory out of 5000000
+ 25647 multiletter control sequences out of 15000+600000
+ 570913 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,6n,93p,975b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\HOME\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main.pdf (14 pages, 1067912 bytes).
+ 79i,6n,93p,1413b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\HOME\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
+Output written on main.pdf (14 pages, 1352207 bytes).
 PDF statistics:
- 78 PDF objects out of 1000 (max. 8388607)
+ 74 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
