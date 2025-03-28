@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1742839305.94207 "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1742839308.41367 0
+["pdflatex"] 1743138172.57153 "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1743138175.7365 0
   "C:/Users/HOME/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741238769 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/HOME/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1742180052 14064 599561bc21f76204aace855d7e289970 ""
   "C:/Users/HOME/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1741238007 24224573 761fd1d80c109c0cb89368e1feb3b6ee ""
@@ -48,13 +48,15 @@
   "chapters/2_DacTa.tex" 1742185788 155 88546dea5156d9180e6028d7e2ebed15 ""
   "chapters/3_KienTrucPhanMen.tex" 1742838672 217 bca132459f1a7b50654088c420bc1cee ""
   "chapters/4_CSDL.tex" 1742185629 50 ce667bd7fbb2af7c6cd2e87168297cc3 ""
-  "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" 1742838552 637 b69ff88d876d3cc256d3dd2e7c0f3365 ""
+  "chapters/5_KetQua.tex" 1743138168 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "chapters/6_HuongPhatTrien.tex" 1743138171 2014 a10591d96878d1b5267a041dc3c076f1 ""
+  "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" 1743137027 826 a8947d3953cde6a13f66c9862f2f9189 ""
   "imgs/API.png" 1742835117 291355 8c8f2d39ece7d7690eacb14f54411842 ""
   "imgs/ERD.png" 1742185198 1302053 8390cb90d3534000b1e6ba072ac4aecc ""
   "imgs/logo.png" 1740927643 314009 293325cdc0ac0bab6ff3dd7c2a41fdf3 ""
-  "main.aux" 1742839308 2952 7e63b6a697f88567440d3fb1dc29a62a "pdflatex"
-  "main.tex" 1742838552 637 b69ff88d876d3cc256d3dd2e7c0f3365 ""
-  "main.toc" 1742839308 1561 8283e211ee3cec65d875ac8cf483d4a2 "pdflatex"
+  "main.aux" 1743138175 3325 9352f889c28318ef18b6f30d83a75345 "pdflatex"
+  "main.tex" 1743137027 826 a8947d3953cde6a13f66c9862f2f9189 ""
+  "main.toc" 1743138175 1700 8484bcfaf0c3d6114862681774f5c8b1 "pdflatex"
   "pages/chap1/LyDo.tex" 1740927643 857 90f4e45690168e0fc76b959a887f68d7 ""
   "pages/chap1/MucTieu.tex" 1740927643 1587 19b75b3afdeec73a3c9a41985c324b3b ""
   "pages/chap1/SoLuoc.tex" 1740927643 1141 9df1cc80eed4dec1452c4ef4a3f23319 ""
@@ -63,8 +65,8 @@
   "pages/chap3/CongCu.tex" 1742839305 4982 9ee8cf391263b8fd095c72abd608e7cb ""
   "pages/chap3/KienTrucPhanMem.tex" 1742838809 3009 61f76b76c3ca9bfab72f4c8544850f40 ""
   "pages/chap3/MoHinhUngDung.tex" 1742839240 4165 a4cffe092a1152df1dc40e00ae65da66 ""
-  "pages/thanks.tex" 1740927643 2194 19fce609e3040a3caa8b23f407edcf5a ""
-  "pages/title.tex" 1740927643 1168 75fe093a361c23eab11a32f391ec1b5f ""
+  "pages/header/thanks.tex" 1740927643 2194 19fce609e3040a3caa8b23f407edcf5a ""
+  "pages/header/title.tex" 1740927643 1168 75fe093a361c23eab11a32f391ec1b5f ""
   (generated)
   "main.aux"
   "main.log"

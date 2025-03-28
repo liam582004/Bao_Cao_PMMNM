@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  25 MAR 2025 01:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  28 MAR 2025 12:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -289,7 +289,7 @@ Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Users\HOME\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) (pages/title.tex
+)) (pages/header/title.tex
 <imgs/logo.png, id=1, 451.6875pt x 451.6875pt>
 File: imgs/logo.png Graphic file (type png)
 <use imgs/logo.png>
@@ -309,7 +309,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
  [1
 
-] (pages/thanks.tex) [2
+] (pages/header/thanks.tex) [2
 
 ]
 Ch\uhorn \ohorn ng 1.
@@ -349,24 +349,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--38
 
 [13
 
- <./imgs/ERD.png>] (main.aux)
+ <./imgs/ERD.png>]
+Ch\uhorn \ohorn ng 5.
+(chapters/5_KetQua.tex) [14
+
+]
+Ch\uhorn \ohorn ng 6.
+(chapters/6_HuongPhatTrien.tex [15
+
+] (main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
- ) 
+ ) ) 
 Here is how much of TeX's memory you used:
- 3423 strings out of 474486
- 62345 string characters out of 5744228
+ 3435 strings out of 474486
+ 62843 string characters out of 5744228
  1932542 words of memory out of 5000000
- 25647 multiletter control sequences out of 15000+600000
+ 25653 multiletter control sequences out of 15000+600000
  570913 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,6n,93p,1413b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\HOME\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on main.pdf (14 pages, 1352207 bytes).
+Output written on main.pdf (16 pages, 1355830 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
+ 80 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

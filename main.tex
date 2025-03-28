@@ -7,14 +7,14 @@
 \begin{document}
 
 % Trang bìa
-\input{pages/title}
+\input{pages/header/title}
 
 % Mục lục
 \tableofcontents
 \newpage
 
 % Lời cảm ơn
-\input{pages/thanks}
+\input{pages/header/thanks}
 
 \newpage
 
@@ -33,7 +33,16 @@
 
 
 % ERD
-\chapter{Sơ đồ ERD}
+\chapter{SƠ ĐỒ ERD}
 \input{chapters/4_CSDL.tex}
+
+
+% Kết quả
+\chapter{BÁO CÁO KẾT QUẢ}
+\input{chapters/5_KetQua.tex}
+
+% Hướng phát triển
+\chapter{HƯỚNG PHÁT TRIỂN}
+\input{chapters/6_HuongPhatTrien.tex}
 
 \end{document}
