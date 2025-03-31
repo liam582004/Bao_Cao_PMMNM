@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  28 MAR 2025 12:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.3.6)  31 MAR 2025 21:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -323,8 +323,8 @@ Ch\uhorn \ohorn ng 2.
 Ch\uhorn \ohorn ng 3.
 (chapters/3_KienTrucPhanMen.tex (pages/chap3/MoHinhUngDung.tex [8
 
-]) (pages/chap3/CongCu.tex [9] [10]) (pages/chap3/KienTrucPhanMem.tex
-<imgs/API.png, id=43, 831.105pt x 359.3425pt>
+]) (pages/chap3/CongCu.tex [9] [10] [11] [12]) (pages/chap3/KienTrucPhanMem.tex
+<imgs/API.png, id=50, 831.105pt x 359.3425pt>
 File: imgs/API.png Graphic file (type png)
 <use imgs/API.png>
 Package pdftex.def Info: imgs/API.png  used on input line 6.
@@ -334,10 +334,10 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 6--7
 [][] 
  []
 
-[11 <./imgs/API.png (PNG copy)>])) [12]
+[13 <./imgs/API.png (PNG copy)>])) [14]
 Ch\uhorn \ohorn ng 4.
 (chapters/4_CSDL.tex
-<imgs/ERD.png, id=51, 5362.0325pt x 2299.59125pt>
+<imgs/ERD.png, id=57, 5362.0325pt x 2299.59125pt>
 File: imgs/ERD.png Graphic file (type png)
 <use imgs/ERD.png>
 Package pdftex.def Info: imgs/ERD.png  used on input line 1.
@@ -347,15 +347,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--38
 
  []
 
-[13
+[15
 
  <./imgs/ERD.png>]
 Ch\uhorn \ohorn ng 5.
-(chapters/5_KetQua.tex) [14
+(chapters/5_KetQua.tex) [16
 
 ]
 Ch\uhorn \ohorn ng 6.
-(chapters/6_HuongPhatTrien.tex [15
+(chapters/6_HuongPhatTrien.tex [17
 
 ] (main.aux)
  ***********
@@ -364,17 +364,17 @@ L3 programming layer <2024-01-04>
  ***********
  ) ) 
 Here is how much of TeX's memory you used:
- 3435 strings out of 474486
- 62843 string characters out of 5744228
+ 3433 strings out of 474486
+ 62807 string characters out of 5744228
  1932542 words of memory out of 5000000
- 25653 multiletter control sequences out of 15000+600000
+ 25651 multiletter control sequences out of 15000+600000
  570913 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 79i,6n,93p,1413b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,6n,93p,1818b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\HOME\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/HOME/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr17.pfb>
-Output written on main.pdf (16 pages, 1355830 bytes).
+Output written on main.pdf (18 pages, 1361837 bytes).
 PDF statistics:
- 80 PDF objects out of 1000 (max. 8388607)
+ 86 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 

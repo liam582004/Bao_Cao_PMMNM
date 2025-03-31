@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1743138172.57153 "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1743138175.7365 0
+["pdflatex"] 1743430501.20454 "d:/Program/Latex/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1743430507.53949 0
   "C:/Users/HOME/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1741238769 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/HOME/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1742180052 14064 599561bc21f76204aace855d7e289970 ""
   "C:/Users/HOME/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1741238007 24224573 761fd1d80c109c0cb89368e1feb3b6ee ""
@@ -54,17 +54,17 @@
   "imgs/API.png" 1742835117 291355 8c8f2d39ece7d7690eacb14f54411842 ""
   "imgs/ERD.png" 1742185198 1302053 8390cb90d3534000b1e6ba072ac4aecc ""
   "imgs/logo.png" 1740927643 314009 293325cdc0ac0bab6ff3dd7c2a41fdf3 ""
-  "main.aux" 1743138175 3325 9352f889c28318ef18b6f30d83a75345 "pdflatex"
+  "main.aux" 1743430507 3325 36c8e9bc861439d8686be13d33c4574b "pdflatex"
   "main.tex" 1743137027 826 a8947d3953cde6a13f66c9862f2f9189 ""
-  "main.toc" 1743138175 1700 8484bcfaf0c3d6114862681774f5c8b1 "pdflatex"
+  "main.toc" 1743430507 1700 8ad3fe16e0da1466c3743946a3a0c6d3 "pdflatex"
   "pages/chap1/LyDo.tex" 1740927643 857 90f4e45690168e0fc76b959a887f68d7 ""
   "pages/chap1/MucTieu.tex" 1740927643 1587 19b75b3afdeec73a3c9a41985c324b3b ""
   "pages/chap1/SoLuoc.tex" 1740927643 1141 9df1cc80eed4dec1452c4ef4a3f23319 ""
   "pages/chap2/YeuCauChucNang.tex" 1742180150 2699 d16438c4f65fec6d04beb2206b6d28f0 ""
   "pages/chap2/YeuCauPhiChucNang.tex" 1742826734 2280 794602b87f71a6f656bb70f0bf627c1f ""
-  "pages/chap3/CongCu.tex" 1742839305 4982 9ee8cf391263b8fd095c72abd608e7cb ""
+  "pages/chap3/CongCu.tex" 1743430499 11721 252fb97725d788d82fc7a5e047314847 ""
   "pages/chap3/KienTrucPhanMem.tex" 1742838809 3009 61f76b76c3ca9bfab72f4c8544850f40 ""
-  "pages/chap3/MoHinhUngDung.tex" 1742839240 4165 a4cffe092a1152df1dc40e00ae65da66 ""
+  "pages/chap3/MoHinhUngDung.tex" 1743358614 2805 bd732f5fc1ff440d4a3e2cc4e110213a ""
   "pages/header/thanks.tex" 1740927643 2194 19fce609e3040a3caa8b23f407edcf5a ""
   "pages/header/title.tex" 1740927643 1168 75fe093a361c23eab11a32f391ec1b5f ""
   (generated)

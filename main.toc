@@ -19,9 +19,9 @@
 \contentsline {section}{\numberline {3.1}Mô hình ứng dụng}{8}{}%
 \contentsline {section}{\numberline {3.2}Công cụ}{9}{}%
 \contentsline {subsubsection}{PyCharm:}{9}{}%
-\contentsline {subsubsection}{ Deploy: Amazon EC2 và VPS:}{11}{}%
-\contentsline {section}{\numberline {3.3}Kiến trúc phần mềm}{11}{}%
-\contentsline {subsubsection}{RESTful API:}{11}{}%
-\contentsline {chapter}{\numberline {4}SƠ ĐỒ ERD}{13}{}%
-\contentsline {chapter}{\numberline {5}BÁO CÁO KẾT QUẢ}{14}{}%
-\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{15}{}%
+\contentsline {subsubsection}{ Deploy: Amazon EC2 và VPS:}{12}{}%
+\contentsline {section}{\numberline {3.3}Kiến trúc phần mềm}{13}{}%
+\contentsline {subsubsection}{RESTful API:}{13}{}%
+\contentsline {chapter}{\numberline {4}SƠ ĐỒ ERD}{15}{}%
+\contentsline {chapter}{\numberline {5}BÁO CÁO KẾT QUẢ}{16}{}%
+\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{17}{}%
