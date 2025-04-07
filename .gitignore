@@ -17,7 +17,6 @@
 
 # Các file PDF hoặc DVI đầu ra
 *.dvi
-*.pdf
 *.ps
 
 # Các file tạm thời của BiBTeX và các trình biên dịch khác

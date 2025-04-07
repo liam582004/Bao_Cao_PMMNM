@@ -1,0 +1,99 @@
+\section{Mô hình Dữ liệu}
+
+Dưới đây là các mô hình dữ liệu chính trong hệ thống:
+
+\subsection{Mô hình Người Dùng (NguoiDung)}
+Mô hình \texttt{NguoiDung} lưu trữ thông tin về người dùng của hệ thống. Các trường chính của entity này bao gồm:
+\begin{itemize}
+    \item \textbf{nguoi\_dung\_id}: Khóa chính, định danh duy nhất cho mỗi người dùng.
+    \item \textbf{email}: Địa chỉ email của người dùng, được sử dụng để đăng nhập.
+    \item \textbf{so\_dien\_thoai}: Số điện thoại của người dùng.
+    \item \textbf{ten\_hien\_thi}: Tên hiển thị của người dùng trên hệ thống.
+    \item \textbf{gioi\_tinh}: Giới tính của người dùng, có thể là "Nam" hoặc "Nữ".
+    \item \textbf{avatar\_url}: URL của ảnh đại diện người dùng.
+    \item \textbf{ngay\_sinh}: Ngày sinh của người dùng.
+    \item \textbf{quoc\_gia}: Quốc gia của người dùng.
+    \item \textbf{la\_premium}: Trường boolean xác định xem người dùng có phải là người dùng Premium không.
+    \item \textbf{google\_id} và \textbf{facebook\_id}: Các trường chứa ID của người dùng từ Google hoặc Facebook (nếu đăng nhập qua các nền tảng này).
+    \item \textbf{ngay\_tao} và \textbf{ngay\_cap\_nhat}: Thời gian tạo và cập nhật thông tin người dùng.
+    \item \textbf{is\_active} và \textbf{is\_staff}: Các trường quản lý trạng thái hoạt động và quyền hạn của người dùng (staff).
+\end{itemize}
+
+Chức năng của mô hình này là quản lý thông tin người dùng, cung cấp cơ sở dữ liệu cho việc đăng nhập, tạo và cập nhật thông tin người dùng, cũng như phân quyền cho người dùng.
+
+\subsection{Mô hình Nghệ Sĩ (NgheSi)}
+Mô hình \texttt{NgheSi} lưu trữ thông tin về nghệ sĩ. Các trường chính bao gồm:
+\begin{itemize}
+    \item \textbf{nghe\_si\_id}: Khóa chính, định danh nghệ sĩ.
+    \item \textbf{ten\_nghe\_si}: Tên nghệ sĩ.
+    \item \textbf{tieu\_su}: Thông tin mô tả về nghệ sĩ.
+    \item \textbf{anh\_dai\_dien}: URL của ảnh đại diện nghệ sĩ.
+    \item \textbf{ngay\_sinh}: Ngày sinh của nghệ sĩ.
+    \item \textbf{quoc\_gia}: Quốc gia của nghệ sĩ.
+    \item \textbf{is\_active}: Trạng thái hoạt động của nghệ sĩ.
+    \item \textbf{created\_at} và \textbf{updated\_at}: Thời gian tạo và cập nhật thông tin nghệ sĩ.
+\end{itemize}
+
+Chức năng của mô hình này là lưu trữ và quản lý thông tin của các nghệ sĩ, giúp người dùng có thể tìm kiếm và theo dõi các nghệ sĩ yêu thích.
+
+\subsection{Mô hình Album}
+Mô hình \texttt{Album} lưu trữ thông tin về các album nhạc. Các trường chính bao gồm:
+\begin{itemize}
+    \item \textbf{album\_id}: Khóa chính, định danh album.
+    \item \textbf{ten\_album}: Tên album.
+    \item \textbf{nghe\_si}: Khóa ngoại liên kết đến mô hình \texttt{NgheSi}, chỉ ra nghệ sĩ sở hữu album.
+    \item \textbf{anh\_bia}: URL của ảnh bìa album.
+    \item \textbf{ngay\_phat\_hanh}: Ngày phát hành album.
+    \item \textbf{the\_loai}: Thể loại của album.
+    \item \textbf{is\_active}: Trạng thái hoạt động của album.
+    \item \textbf{created\_at} và \textbf{updated\_at}: Thời gian tạo và cập nhật album.
+\end{itemize}
+
+Chức năng của mô hình này là quản lý thông tin về các album mà nghệ sĩ phát hành, giúp người dùng dễ dàng tìm kiếm và nghe nhạc theo album.
+
+\subsection{Mô hình Bài Hát (BaiHat)}
+Mô hình \texttt{BaiHat} lưu trữ thông tin về các bài hát trong hệ thống. Các trường chính bao gồm:
+\begin{itemize}
+    \item \textbf{bai\_hat\_id}: Khóa chính, định danh bài hát.
+    \item \textbf{ten\_bai\_hat}: Tên bài hát.
+    \item \textbf{nghe\_si}: Khóa ngoại liên kết đến mô hình \texttt{NgheSi}, chỉ ra nghệ sĩ thể hiện bài hát.
+    \item \textbf{album}: Khóa ngoại liên kết đến mô hình \texttt{Album}, chỉ ra album mà bài hát thuộc về.
+    \item \textbf{the\_loai}: Thể loại của bài hát.
+    \item \textbf{file\_bai\_hat}: Đường dẫn đến tệp bài hát (mp3, mp4, v.v.).
+    \item \textbf{duong\_dan}: URL của bài hát, giúp người dùng phát bài hát từ hệ thống.
+    \item \textbf{loi\_bai\_hat}: Lời bài hát.
+    \item \textbf{thoi\_luong}: Thời gian bài hát (tính bằng giây).
+    \item \textbf{ngay\_phat\_hanh}: Ngày phát hành bài hát.
+\end{itemize}
+
+Chức năng của mô hình này là lưu trữ thông tin bài hát, bao gồm các tệp âm thanh và lời bài hát, giúp người dùng nghe và tìm kiếm bài hát.
+
+\subsection{Mô hình Danh Sách Phát (DanhSachPhat)}
+Mô hình \texttt{DanhSachPhat} lưu trữ thông tin về các danh sách phát nhạc của người dùng. Các trường chính bao gồm:
+\begin{itemize}
+    \item \textbf{danh\_sach\_phat\_id}: Khóa chính, định danh danh sách phát.
+    \item \textbf{nguoi\_dung\_id}: Khóa ngoại liên kết đến mô hình \texttt{NguoiDung}, chỉ ra người dùng sở hữu danh sách phát.
+    \item \textbf{ten\_danh\_sach}: Tên danh sách phát.
+    \item \textbf{mo\_ta}: Mô tả về danh sách phát.
+    \item \textbf{la\_cong\_khai}: Trạng thái công khai của danh sách phát.
+    \item \textbf{ngay\_tao}: Thời gian tạo danh sách phát.
+    \item \textbf{tong\_thoi\_luong}: Tổng thời gian của tất cả bài hát trong danh sách phát (tính bằng giây).
+    \item \textbf{so\_thu\_tu}: Thứ tự hiển thị của danh sách phát.
+    \item \textbf{anh\_danh\_sach}: URL của ảnh đại diện cho danh sách phát.
+    \item \textbf{so\_nguoi\_theo\_doi}: Số người theo dõi danh sách phát.
+\end{itemize}
+
+Chức năng của mô hình này là quản lý các danh sách phát của người dùng, giúp người dùng tạo và chia sẻ các danh sách phát nhạc.
+
+\subsection{Mô hình Thanh Toán (ThanhToan)}
+Mô hình \texttt{ThanhToan} lưu trữ thông tin về các giao dịch thanh toán của người dùng đối với các gói Premium. Các trường chính bao gồm:
+\begin{itemize}
+    \item \textbf{thanh\_toan\_id}: Khóa chính, định danh giao dịch thanh toán.
+    \item \textbf{nguoi\_dung\_id}: Khóa ngoại liên kết đến mô hình \texttt{NguoiDung}, chỉ ra người dùng thực hiện giao dịch.
+    \item \textbf{so\_tien}: Số tiền đã thanh toán.
+    \item \textbf{loai\_thanh\_toan}: Loại giao dịch (ví dụ: thẻ tín dụng, PayPal).
+    \item \textbf{ngay\_thanh\_toan}: Ngày thanh toán.
+    \item \textbf{trang\_thai\_thanh\_toan}: Trạng thái của giao dịch (thành công, thất bại).
+\end{itemize}
+
+Chức năng của mô hình này là quản lý thông tin giao dịch thanh toán của người dùng để cấp quyền Premium cho người dùng.
