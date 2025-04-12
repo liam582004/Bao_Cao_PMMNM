@@ -1,27 +1,56 @@
 \babel@toc {vietnamese}{}\relax 
-\contentsline {chapter}{Lời cảm ơn}{2}{}%
-\contentsline {chapter}{\numberline {1}GIỚI THIỆU}{3}{}%
-\contentsline {section}{\numberline {1.1}Giới thiệu sơ lược về đề tài}{3}{}%
-\contentsline {section}{\numberline {1.2}Lý do chọn đề tài}{3}{}%
-\contentsline {section}{\numberline {1.3}Mục tiêu}{4}{}%
-\contentsline {chapter}{\numberline {2}ĐẶC TẢ YÊU CẦU PHẦN MỀM}{5}{}%
-\contentsline {section}{\numberline {2.1}Yêu cầu chức năng}{5}{}%
-\contentsline {subsection}{\numberline {2.1.1}Người dùng}{5}{}%
-\contentsline {subsection}{\numberline {2.1.2}Quản lý}{6}{}%
-\contentsline {section}{\numberline {2.2}Yêu cầu phi chức năng}{6}{}%
-\contentsline {subsubsection}{Hiệu suất}{6}{}%
-\contentsline {subsubsection}{Tính bảo mật}{7}{}%
-\contentsline {subsubsection}{Tính sẵn có}{7}{}%
-\contentsline {subsubsection}{Khả năng sử dụng}{7}{}%
-\contentsline {subsubsection}{Tính tương thích}{7}{}%
-\contentsline {subsubsection}{Tính bảo trì}{7}{}%
-\contentsline {chapter}{\numberline {3}KIẾN TRÚC PHẦN MỀM}{8}{}%
-\contentsline {section}{\numberline {3.1}Mô hình ứng dụng}{8}{}%
-\contentsline {section}{\numberline {3.2}Công cụ}{9}{}%
-\contentsline {subsubsection}{PyCharm:}{9}{}%
-\contentsline {subsubsection}{ Deploy: Amazon EC2 và VPS:}{12}{}%
-\contentsline {section}{\numberline {3.3}Kiến trúc phần mềm}{13}{}%
-\contentsline {subsubsection}{RESTful API:}{13}{}%
-\contentsline {chapter}{\numberline {4}SƠ ĐỒ ERD}{15}{}%
-\contentsline {chapter}{\numberline {5}BÁO CÁO KẾT QUẢ}{16}{}%
-\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{17}{}%
+\contentsline {chapter}{Lời cảm ơn}{3}{}%
+\contentsline {chapter}{\numberline {1}GIỚI THIỆU}{4}{}%
+\contentsline {section}{\numberline {1.1}Giới thiệu sơ lược về đề tài}{4}{}%
+\contentsline {section}{\numberline {1.2}Lý do chọn đề tài}{5}{}%
+\contentsline {section}{\numberline {1.3}Mục tiêu}{5}{}%
+\contentsline {chapter}{\numberline {2}ĐẶC TẢ YÊU CẦU PHẦN MỀM}{7}{}%
+\contentsline {section}{\numberline {2.1}Yêu cầu chức năng}{7}{}%
+\contentsline {subsection}{\numberline {2.1.1}Người dùng}{7}{}%
+\contentsline {subsection}{\numberline {2.1.2}Quản lý}{8}{}%
+\contentsline {section}{\numberline {2.2}Yêu cầu phi chức năng}{8}{}%
+\contentsline {subsubsection}{Hiệu suất}{8}{}%
+\contentsline {subsubsection}{Tính bảo mật}{8}{}%
+\contentsline {subsubsection}{Tính sẵn có}{9}{}%
+\contentsline {subsubsection}{Khả năng sử dụng}{9}{}%
+\contentsline {subsubsection}{Tính tương thích}{9}{}%
+\contentsline {subsubsection}{Tính bảo trì}{9}{}%
+\contentsline {chapter}{\numberline {3}KIẾN TRÚC PHẦN MỀM}{10}{}%
+\contentsline {section}{\numberline {3.1}Mô hình ứng dụng}{10}{}%
+\contentsline {section}{\numberline {3.2}Công cụ}{13}{}%
+\contentsline {subsubsection}{PyCharm:}{13}{}%
+\contentsline {subsubsection}{ Deploy: Amazon EC2 và VPS:}{17}{}%
+\contentsline {section}{\numberline {3.3}Kiến trúc phần mềm}{18}{}%
+\contentsline {subsubsection}{RESTful API:}{18}{}%
+\contentsline {chapter}{\numberline {4}SƠ ĐỒ ERD}{20}{}%
+\contentsline {section}{\numberline {4.1}Mô hình Dữ liệu}{20}{}%
+\contentsline {subsection}{\numberline {4.1.1}Mô hình Người Dùng (NguoiDung)}{20}{}%
+\contentsline {subsection}{\numberline {4.1.2}Mô hình Nghệ Sĩ (NgheSi)}{21}{}%
+\contentsline {subsection}{\numberline {4.1.3}Mô hình Album}{22}{}%
+\contentsline {subsection}{\numberline {4.1.4}Mô hình Bài Hát (BaiHat)}{22}{}%
+\contentsline {subsection}{\numberline {4.1.5}Mô hình Danh Sách Phát (DanhSachPhat)}{23}{}%
+\contentsline {subsection}{\numberline {4.1.6}Mô hình Thanh Toán (ThanhToan)}{23}{}%
+\contentsline {chapter}{\numberline {5}BÁO CÁO KẾT QUẢ}{25}{}%
+\contentsline {section}{\numberline {5.1}Chức năng phát nhạc}{25}{}%
+\contentsline {section}{\numberline {5.2}Chức năng phát video âm nhạc}{25}{}%
+\contentsline {section}{\numberline {5.3}Chức năng tải video âm nhạc}{26}{}%
+\contentsline {section}{\numberline {5.4}Chức năng tạo album và đánh dấu bài hát yêu thích}{27}{}%
+\contentsline {subsection}{\numberline {5.4.1}Chức năng tạo album}{27}{}%
+\contentsline {subsection}{\numberline {5.4.2}Chức năng đánh dấu bài hát yêu thích}{30}{}%
+\contentsline {section}{\numberline {5.5}Quản trị}{30}{}%
+\contentsline {subsection}{\numberline {5.5.1}Quản lý người dùng}{30}{}%
+\contentsline {subsection}{\numberline {5.5.2}Quản lý bài hát}{33}{}%
+\contentsline {subsection}{\numberline {5.5.3}Quản lý album}{38}{}%
+\contentsline {subsection}{\numberline {5.5.4}Quản lý nghệ sĩ}{42}{}%
+\contentsline {subsection}{\numberline {5.5.5}Quản lý loại bài hát}{47}{}%
+\contentsline {subsection}{\numberline {5.5.6}Thống kê}{49}{}%
+\contentsline {section}{\numberline {5.6}Tính năng chat tích hợp}{50}{}%
+\contentsline {section}{\numberline {5.7}Chức năng tìm kiếm}{51}{}%
+\contentsline {subsection}{\numberline {5.7.1}Tìm kiếm theo từ khóa}{51}{}%
+\contentsline {subsection}{\numberline {5.7.2}Tìm kiếm bài hát dựa trên tệp ghi âm}{52}{}%
+\contentsline {section}{\numberline {5.8}Tính năng chat tích hợp}{53}{}%
+\contentsline {section}{\numberline {5.9}Premium}{54}{}%
+\contentsline {subsection}{\numberline {5.9.1}Mua Premium thanh toán bằng PayPal}{54}{}%
+\contentsline {subsection}{\numberline {5.9.2}Mua Premium thanh toán bằng Zalo pay}{56}{}%
+\contentsline {section}{\numberline {5.10}Bảng xếp hạng và album hot}{56}{}%
+\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{58}{}%
