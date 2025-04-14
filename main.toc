@@ -54,3 +54,6 @@
 \contentsline {subsection}{\numberline {5.9.2}Mua Premium thanh toán bằng Zalo pay}{56}{}%
 \contentsline {section}{\numberline {5.10}Bảng xếp hạng và album hot}{56}{}%
 \contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{58}{}%
+\contentsline {chapter}{\numberline {7}MÔI TRƯỜNG CHẠY ỨNG DỤNG VÀ CÁCH CÀI ĐẶT}{59}{}%
+\contentsline {section}{\numberline {7.1}Môi trường chạy ứng dụng}{59}{}%
+\contentsline {section}{\numberline {7.2}Cách cài đặt}{59}{}%
