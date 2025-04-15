@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  15 APR 2025 14:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.3) (preloaded format=pdflatex 2025.4.2)  15 APR 2025 14:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,6 +254,24 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \float@box=\box53
 \@float@everytoks=\toks19
 \@floatcapt=\box54
+) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2024-10-27 v4.22 Multi-page Table package (DPC)
+\LTleft=\skip51
+\LTright=\skip52
+\LTpre=\skip53
+\LTpost=\skip54
+\LTchunksize=\count278
+\LTcapwidth=\dimen145
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count279
+\LT@rows=\count280
+\c@LT@tables=\count281
+\c@LT@chunks=\count282
+\LT@p@ftn=\toks20
 ) (main.aux
 LaTeX Font Info:    Trying to load font information for T5+cmr on input line 5.
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/vntex\t5cmr.fd
@@ -264,35 +282,35 @@ Package babel Info: 'vietnamese' activates 'vietnamese' shorthands.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
-LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 8.
-LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
  (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count278
-\scratchdimen=\dimen145
-\scratchbox=\box55
-\nofMPsegments=\count279
-\nofMParguments=\count280
-\everyMPshowfont=\toks20
-\MPscratchCnt=\count281
-\MPscratchDim=\dimen146
-\MPnumerator=\count282
-\makeMPintoPDFobject=\count283
-\everyMPtoPDFconversion=\toks21
+\scratchcounter=\count283
+\scratchdimen=\dimen146
+\scratchbox=\box60
+\nofMPsegments=\count284
+\nofMParguments=\count285
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count286
+\MPscratchDim=\dimen147
+\MPnumerator=\count287
+\makeMPintoPDFobject=\count288
+\everyMPtoPDFconversion=\toks22
 ) (C:\Users\ADMIN\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -324,14 +342,24 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 
-[2] (pages/header/thanks.tex)
+[2] (main.lof
 
 [3
+
+])
+\tf@lof=\write4
+\openout4 = `main.lof'.
+
+
+
+[4] (pages/header/thanks.tex)
+
+[5
 
 ]
 Ch\uhorn \ohorn ng 1.
 (chapters/1_GioiThieu.tex (pages/chap1/SoLuoc.tex
-<imgs/spotify.png, id=18, 1927.2pt x 1008.76875pt>
+<imgs/spotify.png, id=24, 1927.2pt x 1008.76875pt>
 File: imgs/spotify.png Graphic file (type png)
 <use imgs/spotify.png>
 Package pdftex.def Info: imgs/spotify.png  used on input line 5.
@@ -348,26 +376,46 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--3
 
 
 
-[4
+[6
 
 ] (pages/chap1/LyDo.tex) (pages/chap1/MucTieu.tex
 
-[5 <./imgs/spotify.png (PNG copy)>]))
+[7 <./imgs/spotify.png (PNG copy)>]) (pages/chap1/phancong.tex
+Overfull \hbox (91.42555pt too wide) in alignment at lines 1--5
+ [] [] 
+ []
 
-[6]
+
+Overfull \hbox (91.42555pt too wide) in alignment at lines 5--9
+ [] [] 
+ []
+
+
+Overfull \hbox (91.42555pt too wide) in alignment at lines 9--11
+ [] [] 
+ []
+
+
+Overfull \hbox (91.42555pt too wide) in alignment at lines 11--25
+ [] [] 
+ []
+
+))
+
+[8]
 Ch\uhorn \ohorn ng 2.
 (chapters/2_DacTa.tex (pages/chap2/YeuCauChucNang.tex
 
-[7
+[9
 
 ]) (pages/chap2/YeuCauPhiChucNang.tex
 
-[8]))
+[10]))
 
-[9]
+[11]
 Ch\uhorn \ohorn ng 3.
 (chapters/3_KienTrucPhanMen.tex (pages/chap3/MoHinhUngDung.tex
-<imgs/react.png, id=39, 828.09375pt x 414.54875pt>
+<imgs/react.png, id=45, 828.09375pt x 414.54875pt>
 File: imgs/react.png Graphic file (type png)
 <use imgs/react.png>
 Package pdftex.def Info: imgs/react.png  used on input line 5.
@@ -379,10 +427,10 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 5--6
 
 
 
-[10
+[12
 
  <./imgs/react.png>]
-<imgs/django.png, id=45, 1284.8pt x 722.7pt>
+<imgs/django.png, id=52, 1284.8pt x 722.7pt>
 File: imgs/django.png Graphic file (type png)
 <use imgs/django.png>
 Package pdftex.def Info: imgs/django.png  used on input line 12.
@@ -392,7 +440,7 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 12--13
 [][] 
  []
 
-<imgs/mysql.png, id=46, 1606.0pt x 902.37125pt>
+<imgs/mysql.png, id=53, 1606.0pt x 902.37125pt>
 File: imgs/mysql.png Graphic file (type png)
 <use imgs/mysql.png>
 Package pdftex.def Info: imgs/mysql.png  used on input line 19.
@@ -404,8 +452,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 19--20
 
 
 
-[11 <./imgs/django.png (PNG copy)>]
-<imgs/websocket.png, id=50, 1284.8pt x 642.4pt>
+[13 <./imgs/django.png (PNG copy)>]
+<imgs/websocket.png, id=57, 1284.8pt x 642.4pt>
 File: imgs/websocket.png Graphic file (type png)
 <use imgs/websocket.png>
 Package pdftex.def Info: imgs/websocket.png  used on input line 26.
@@ -417,8 +465,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 26--27
 
 ) (pages/chap3/CongCu.tex
 
-[12 <./imgs/mysql.png (PNG copy)> <./imgs/websocket.png (PNG copy)>]
-<imgs/pycharm.png, id=55, 752.8125pt x 411.5375pt>
+[14 <./imgs/mysql.png (PNG copy)> <./imgs/websocket.png (PNG copy)>]
+<imgs/pycharm.png, id=61, 752.8125pt x 411.5375pt>
 File: imgs/pycharm.png Graphic file (type png)
 <use imgs/pycharm.png>
 Package pdftex.def Info: imgs/pycharm.png  used on input line 5.
@@ -430,8 +478,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 5--6
 
 
 
-[13 <./imgs/pycharm.png (PNG copy)>]
-<imgs/postman.png, id=59, 803.0pt x 431.6125pt>
+[15 <./imgs/pycharm.png (PNG copy)>]
+<imgs/postman.png, id=65, 803.0pt x 431.6125pt>
 File: imgs/postman.png Graphic file (type png)
 <use imgs/postman.png>
 Package pdftex.def Info: imgs/postman.png  used on input line 17.
@@ -443,12 +491,12 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 17--18
 
 
 
-[14 <./imgs/postman.png>]
+[16 <./imgs/postman.png>]
 
-[15]
+[17]
 
-[16]
-<imgs/aws.png, id=70, 1204.5pt x 630.355pt>
+[18]
+<imgs/aws.png, id=77, 1204.5pt x 630.355pt>
 File: imgs/aws.png Graphic file (type png)
 <use imgs/aws.png>
 Package pdftex.def Info: imgs/aws.png  used on input line 54.
@@ -460,8 +508,8 @@ Overfull \hbox (29.3747pt too wide) in paragraph at lines 54--55
 
 ) (pages/chap3/KienTrucPhanMem.tex
 
-[17 <./imgs/aws.png (PNG copy)>]
-<imgs/API.png, id=74, 831.105pt x 359.3425pt>
+[19 <./imgs/aws.png (PNG copy)>]
+<imgs/API.png, id=81, 831.105pt x 359.3425pt>
 File: imgs/API.png Graphic file (type png)
 <use imgs/API.png>
 Package pdftex.def Info: imgs/API.png  used on input line 6.
@@ -473,12 +521,12 @@ Overfull \hbox (17.62482pt too wide) in paragraph at lines 6--7
 
 
 
-[18 <./imgs/API.png (PNG copy)>]))
+[20 <./imgs/API.png (PNG copy)>]))
 
-[19]
+[21]
 Ch\uhorn \ohorn ng 4.
 (chapters/4_CSDL.tex
-<imgs/ERD.png, id=82, 5362.0325pt x 2299.59125pt>
+<imgs/ERD.png, id=88, 5362.0325pt x 2299.59125pt>
 File: imgs/ERD.png Graphic file (type png)
 <use imgs/ERD.png>
 Package pdftex.def Info: imgs/ERD.png  used on input line 1.
@@ -493,464 +541,477 @@ LaTeX Font Info:    Trying to load font information for T5+cmtt on input line 6.
 File: t5cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 
-[20
+[22
 
  <./imgs/ERD.png>]
 
-[21]
-
-[22]
-
-[23])
+[23]
 
 [24]
+
+[25])
+
+[26]
 Ch\uhorn \ohorn ng 5.
 (chapters/5_KetQua.tex (pages/chap5/phat_nhac.tex
-<imgs/chap5/phat_nhac_1.png, id=101, 1444.64719pt x 648.17157pt>
+<imgs/chap5/phat_nhac_1.png, id=107, 1444.64719pt x 648.17157pt>
 File: imgs/chap5/phat_nhac_1.png Graphic file (type png)
 <use imgs/chap5/phat_nhac_1.png>
 Package pdftex.def Info: imgs/chap5/phat_nhac_1.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 174.97899pt.
 ) (pages/chap5/phat_video_am_nhac.tex
-<imgs/chap5/phat_video.png, id=102, 1442.38875pt x 646.66594pt>
+<imgs/chap5/phat_video.png, id=108, 1442.38875pt x 646.66594pt>
 File: imgs/chap5/phat_video.png Graphic file (type png)
 <use imgs/chap5/phat_video.png>
 Package pdftex.def Info: imgs/chap5/phat_video.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 174.84882pt.
 ) (pages/chap5/tai_video_am_nhac.tex
 
-[25
+[27
 
  <./imgs/chap5/phat_nhac_1.png>]
-<imgs/chap5/tai_video.png, id=107, 1441.63594pt x 685.05937pt>
+<imgs/chap5/tai_video.png, id=113, 1441.63594pt x 685.05937pt>
 File: imgs/chap5/tai_video.png Graphic file (type png)
 <use imgs/chap5/tai_video.png>
 Package pdftex.def Info: imgs/chap5/tai_video.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 185.3239pt.
 ) (pages/chap5/tao_album_danh_dau_nhac_yeu_thich.tex
 
-[26 <./imgs/chap5/phat_video.png> <./imgs/chap5/tai_video.png>]
-<imgs/chap5/tao_album_1.png, id=113, 813.0375pt x 575.14874pt>
+[28 <./imgs/chap5/phat_video.png> <./imgs/chap5/tai_video.png>]
+<imgs/chap5/tao_album_1.png, id=119, 813.0375pt x 575.14874pt>
 File: imgs/chap5/tao_album_1.png Graphic file (type png)
 <use imgs/chap5/tao_album_1.png>
 Package pdftex.def Info: imgs/chap5/tao_album_1.png  used on input line 8.
 (pdftex.def)             Requested size: 390.0pt x 275.88396pt.
-<imgs/chap5/tao_album_2.png, id=114, 692.5875pt x 580.41844pt>
+<imgs/chap5/tao_album_2.png, id=120, 692.5875pt x 580.41844pt>
 File: imgs/chap5/tao_album_2.png Graphic file (type png)
 <use imgs/chap5/tao_album_2.png>
 Package pdftex.def Info: imgs/chap5/tao_album_2.png  used on input line 14.
 (pdftex.def)             Requested size: 390.0pt x 326.84769pt.
 
 
-[27 <./imgs/chap5/tao_album_1.png>]
-<imgs/chap5/tao_album_3.png, id=119, 1444.64719pt x 642.14906pt>
+[29 <./imgs/chap5/tao_album_1.png>]
+<imgs/chap5/tao_album_3.png, id=125, 1444.64719pt x 642.14906pt>
 File: imgs/chap5/tao_album_3.png Graphic file (type png)
 <use imgs/chap5/tao_album_3.png>
 Package pdftex.def Info: imgs/chap5/tao_album_3.png  used on input line 20.
 (pdftex.def)             Requested size: 390.0pt x 173.35316pt.
-<imgs/chap5/tao_album_4.png, id=120, 633.11531pt x 554.82281pt>
+<imgs/chap5/tao_album_4.png, id=126, 633.11531pt x 554.82281pt>
 File: imgs/chap5/tao_album_4.png Graphic file (type png)
 <use imgs/chap5/tao_album_4.png>
 Package pdftex.def Info: imgs/chap5/tao_album_4.png  used on input line 26.
 (pdftex.def)             Requested size: 390.0pt x 341.777pt.
 
 
-[28 <./imgs/chap5/tao_album_2.png> <./imgs/chap5/tao_album_3.png>]
-<imgs/chap5/tao_album_5.png, id=126, 1371.62437pt x 635.37375pt>
+[30 <./imgs/chap5/tao_album_2.png> <./imgs/chap5/tao_album_3.png>]
+<imgs/chap5/tao_album_5.png, id=133, 1371.62437pt x 635.37375pt>
 File: imgs/chap5/tao_album_5.png Graphic file (type png)
 <use imgs/chap5/tao_album_5.png>
 Package pdftex.def Info: imgs/chap5/tao_album_5.png  used on input line 32.
 (pdftex.def)             Requested size: 390.0pt x 180.65681pt.
 
 
-[29 <./imgs/chap5/tao_album_4.png>]) (pages/chap5/quan_tri.tex
-<imgs/chap5/ql_nguoi_dung_1.png, id=131, 1444.64719pt x 651.18282pt>
+[31 <./imgs/chap5/tao_album_4.png>]) (pages/chap5/quan_tri.tex
+<imgs/chap5/ql_nguoi_dung_1.png, id=138, 1444.64719pt x 651.18282pt>
 File: imgs/chap5/ql_nguoi_dung_1.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_1.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_1.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 175.7919pt.
-<imgs/chap5/ql_nguoi_dung_2.png, id=132, 1442.38875pt x 654.19406pt>
+<imgs/chap5/ql_nguoi_dung_2.png, id=139, 1442.38875pt x 654.19406pt>
 File: imgs/chap5/ql_nguoi_dung_2.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_2.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_2.png  used on input line 13.
 (pdftex.def)             Requested size: 390.0pt x 176.88431pt.
 
 
-[30 <./imgs/chap5/tao_album_5.png> <./imgs/chap5/ql_nguoi_dung_1.png>]
-<imgs/chap5/ql_nguoi_dung_3.png, id=139, 1196.97188pt x 373.395pt>
+[32 <./imgs/chap5/tao_album_5.png> <./imgs/chap5/ql_nguoi_dung_1.png>]
+<imgs/chap5/ql_nguoi_dung_3.png, id=145, 1196.97188pt x 373.395pt>
 File: imgs/chap5/ql_nguoi_dung_3.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_3.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_3.png  used on input line 19.
 (pdftex.def)             Requested size: 390.0pt x 121.65959pt.
-<imgs/chap5/ql_nguoi_dung_4.png, id=140, 1205.2528pt x 475.02469pt>
+<imgs/chap5/ql_nguoi_dung_4.png, id=146, 1205.2528pt x 475.02469pt>
 File: imgs/chap5/ql_nguoi_dung_4.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_4.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_4.png  used on input line 24.
 (pdftex.def)             Requested size: 390.0pt x 153.70709pt.
-<imgs/chap5/ql_nguoi_dung_7.png, id=141, 1206.75844pt x 465.23813pt>
+<imgs/chap5/ql_nguoi_dung_7.png, id=147, 1206.75844pt x 465.23813pt>
 File: imgs/chap5/ql_nguoi_dung_7.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_7.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_7.png  used on input line 31.
 (pdftex.def)             Requested size: 390.0pt x 150.35582pt.
 
 
-[31 <./imgs/chap5/ql_nguoi_dung_2.png> <./imgs/chap5/ql_nguoi_dung_3.png> <./imgs/chap5/ql_nguoi_dung_4.png>]
-<imgs/chap5/ql_nguoi_dung_8.png, id=148, 1206.75844pt x 465.99094pt>
+[33 <./imgs/chap5/ql_nguoi_dung_2.png> <./imgs/chap5/ql_nguoi_dung_3.png> <./imgs/chap5/ql_nguoi_dung_4.png>]
+<imgs/chap5/ql_nguoi_dung_8.png, id=154, 1206.75844pt x 465.99094pt>
 File: imgs/chap5/ql_nguoi_dung_8.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_8.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_8.png  used on input line 36.
 (pdftex.def)             Requested size: 390.0pt x 150.5991pt.
-<imgs/chap5/ql_nguoi_dung_5.png, id=149, 1196.97188pt x 426.84468pt>
+<imgs/chap5/ql_nguoi_dung_5.png, id=155, 1196.97188pt x 426.84468pt>
 File: imgs/chap5/ql_nguoi_dung_5.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_5.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_5.png  used on input line 43.
 (pdftex.def)             Requested size: 390.0pt x 139.07458pt.
-<imgs/chap5/ql_nguoi_dung_6.png, id=150, 1196.97188pt x 521.69907pt>
+<imgs/chap5/ql_nguoi_dung_6.png, id=156, 1196.97188pt x 521.69907pt>
 File: imgs/chap5/ql_nguoi_dung_6.png Graphic file (type png)
 <use imgs/chap5/ql_nguoi_dung_6.png>
 Package pdftex.def Info: imgs/chap5/ql_nguoi_dung_6.png  used on input line 48.
 (pdftex.def)             Requested size: 390.0pt x 169.98004pt.
 
 
-[32 <./imgs/chap5/ql_nguoi_dung_7.png> <./imgs/chap5/ql_nguoi_dung_8.png>]
-<imgs/chap5/ql_bai_hat_1.png, id=156, 1444.64719pt x 652.68843pt>
+[34 <./imgs/chap5/ql_nguoi_dung_7.png> <./imgs/chap5/ql_nguoi_dung_8.png>]
+<imgs/chap5/ql_bai_hat_1.png, id=162, 1444.64719pt x 652.68843pt>
 File: imgs/chap5/ql_bai_hat_1.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_1.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_1.png  used on input line 56.
 (pdftex.def)             Requested size: 390.0pt x 176.19835pt.
 
 
-[33 <./imgs/chap5/ql_nguoi_dung_5.png> <./imgs/chap5/ql_nguoi_dung_6.png>]
-<imgs/chap5/ql_bai_hat_2.png, id=162, 1443.89438pt x 645.91313pt>
+[35 <./imgs/chap5/ql_nguoi_dung_5.png> <./imgs/chap5/ql_nguoi_dung_6.png>]
+<imgs/chap5/ql_bai_hat_2.png, id=168, 1443.89438pt x 645.91313pt>
 File: imgs/chap5/ql_bai_hat_2.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_2.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_2.png  used on input line 63.
 (pdftex.def)             Requested size: 390.0pt x 174.45801pt.
-<imgs/chap5/ql_bai_hat_3.png, id=163, 1444.64719pt x 496.85625pt>
+<imgs/chap5/ql_bai_hat_3.png, id=169, 1444.64719pt x 496.85625pt>
 File: imgs/chap5/ql_bai_hat_3.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_3.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_3.png  used on input line 68.
 (pdftex.def)             Requested size: 390.0pt x 134.13023pt.
 
 
-[34 <./imgs/chap5/ql_bai_hat_1.png> <./imgs/chap5/ql_bai_hat_2.png>]
-<imgs/chap5/ql_bai_hat_4.png, id=169, 1444.64719pt x 645.91313pt>
+[36 <./imgs/chap5/ql_bai_hat_1.png> <./imgs/chap5/ql_bai_hat_2.png>]
+<imgs/chap5/ql_bai_hat_4.png, id=176, 1444.64719pt x 645.91313pt>
 File: imgs/chap5/ql_bai_hat_4.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_4.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_4.png  used on input line 75.
 (pdftex.def)             Requested size: 390.0pt x 174.36931pt.
-<imgs/chap5/ql_bai_hat_5.png, id=170, 1444.64719pt x 612.78937pt>
+<imgs/chap5/ql_bai_hat_5.png, id=177, 1444.64719pt x 612.78937pt>
 File: imgs/chap5/ql_bai_hat_5.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_5.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_5.png  used on input line 80.
 (pdftex.def)             Requested size: 390.0pt x 165.42729pt.
 
 
-[35 <./imgs/chap5/ql_bai_hat_3.png> <./imgs/chap5/ql_bai_hat_4.png>]
-<imgs/chap5/ql_bai_hat_6.png, id=176, 1200.73593pt x 414.04688pt>
+[37 <./imgs/chap5/ql_bai_hat_3.png> <./imgs/chap5/ql_bai_hat_4.png>]
+<imgs/chap5/ql_bai_hat_6.png, id=183, 1200.73593pt x 414.04688pt>
 File: imgs/chap5/ql_bai_hat_6.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_6.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_6.png  used on input line 87.
 (pdftex.def)             Requested size: 390.0pt x 134.4815pt.
-<imgs/chap5/ql_bai_hat_7.png, id=177, 1444.64719pt x 448.67625pt>
+<imgs/chap5/ql_bai_hat_7.png, id=184, 1444.64719pt x 448.67625pt>
 File: imgs/chap5/ql_bai_hat_7.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_7.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_7.png  used on input line 92.
 (pdftex.def)             Requested size: 390.0pt x 121.12366pt.
-<imgs/chap5/ql_bai_hat_9.png, id=178, 1227.08438pt x 577.40718pt>
+<imgs/chap5/ql_bai_hat_9.png, id=185, 1227.08438pt x 577.40718pt>
 File: imgs/chap5/ql_bai_hat_9.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_9.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_9.png  used on input line 99.
 (pdftex.def)             Requested size: 390.0pt x 183.51416pt.
-<imgs/chap5/ql_bai_hat_10.png, id=179, 1172.88188pt x 516.42938pt>
+<imgs/chap5/ql_bai_hat_10.png, id=186, 1172.88188pt x 516.42938pt>
 File: imgs/chap5/ql_bai_hat_10.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_10.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_10.png  used on input line 104.
 (pdftex.def)             Requested size: 390.0pt x 171.71455pt.
 
 
-[36 <./imgs/chap5/ql_bai_hat_5.png> <./imgs/chap5/ql_bai_hat_6.png> <./imgs/chap5/ql_bai_hat_7.png>]
-<imgs/chap5/ql_bai_hat_8.png, id=187, 1444.64719pt x 561.59813pt>
+[38 <./imgs/chap5/ql_bai_hat_5.png> <./imgs/chap5/ql_bai_hat_6.png> <./imgs/chap5/ql_bai_hat_7.png>]
+<imgs/chap5/ql_bai_hat_8.png, id=193, 1444.64719pt x 561.59813pt>
 File: imgs/chap5/ql_bai_hat_8.png Graphic file (type png)
 <use imgs/chap5/ql_bai_hat_8.png>
 Package pdftex.def Info: imgs/chap5/ql_bai_hat_8.png  used on input line 112.
 (pdftex.def)             Requested size: 390.0pt x 151.6078pt.
 
 
-[37 <./imgs/chap5/ql_bai_hat_9.png> <./imgs/chap5/ql_bai_hat_10.png>]
-<imgs/chap5/ql_album_1.png, id=193, 1444.64719pt x 639.13782pt>
+[39 <./imgs/chap5/ql_bai_hat_9.png> <./imgs/chap5/ql_bai_hat_10.png>]
+<imgs/chap5/ql_album_1.png, id=199, 1444.64719pt x 639.13782pt>
 File: imgs/chap5/ql_album_1.png Graphic file (type png)
 <use imgs/chap5/ql_album_1.png>
 Package pdftex.def Info: imgs/chap5/ql_album_1.png  used on input line 120.
 (pdftex.def)             Requested size: 390.0pt x 172.54025pt.
-<imgs/chap5/ql_album_3.png, id=194, 1444.64719pt x 637.63219pt>
+<imgs/chap5/ql_album_3.png, id=200, 1444.64719pt x 637.63219pt>
 File: imgs/chap5/ql_album_3.png Graphic file (type png)
 <use imgs/chap5/ql_album_3.png>
 Package pdftex.def Info: imgs/chap5/ql_album_3.png  used on input line 127.
 (pdftex.def)             Requested size: 390.0pt x 172.1338pt.
-<imgs/chap5/ql_album_4.png, id=195, 1444.64719pt x 642.90187pt>
+<imgs/chap5/ql_album_4.png, id=201, 1444.64719pt x 642.90187pt>
 File: imgs/chap5/ql_album_4.png Graphic file (type png)
 <use imgs/chap5/ql_album_4.png>
 Package pdftex.def Info: imgs/chap5/ql_album_4.png  used on input line 132.
 (pdftex.def)             Requested size: 390.0pt x 173.5564pt.
 
 
-[38 <./imgs/chap5/ql_bai_hat_8.png> <./imgs/chap5/ql_album_1.png>]
-<imgs/chap5/ql_album_5.png, id=201, 1224.82594pt x 558.58687pt>
+[40 <./imgs/chap5/ql_bai_hat_8.png> <./imgs/chap5/ql_album_1.png>]
+<imgs/chap5/ql_album_5.png, id=207, 1224.82594pt x 558.58687pt>
 File: imgs/chap5/ql_album_5.png Graphic file (type png)
 <use imgs/chap5/ql_album_5.png>
 Package pdftex.def Info: imgs/chap5/ql_album_5.png  used on input line 139.
 (pdftex.def)             Requested size: 390.0pt x 177.85649pt.
-<imgs/chap5/ql_album_6.png, id=202, 1141.26375pt x 545.03625pt>
+<imgs/chap5/ql_album_6.png, id=208, 1141.26375pt x 545.03625pt>
 File: imgs/chap5/ql_album_6.png Graphic file (type png)
 <use imgs/chap5/ql_album_6.png>
 Package pdftex.def Info: imgs/chap5/ql_album_6.png  used on input line 144.
 (pdftex.def)             Requested size: 390.0pt x 186.24965pt.
 
 
-[39 <./imgs/chap5/ql_album_3.png> <./imgs/chap5/ql_album_4.png>]
-<imgs/chap5/ql_album_8.png, id=208, 1171.37625pt x 560.8453pt>
+[41 <./imgs/chap5/ql_album_3.png> <./imgs/chap5/ql_album_4.png>]
+<imgs/chap5/ql_album_8.png, id=214, 1171.37625pt x 560.8453pt>
 File: imgs/chap5/ql_album_8.png Graphic file (type png)
 <use imgs/chap5/ql_album_8.png>
 Package pdftex.def Info: imgs/chap5/ql_album_8.png  used on input line 151.
 (pdftex.def)             Requested size: 390.0pt x 186.73117pt.
-<imgs/chap5/ql_album_9.png, id=209, 1185.67969pt x 633.86812pt>
+<imgs/chap5/ql_album_9.png, id=215, 1185.67969pt x 633.86812pt>
 File: imgs/chap5/ql_album_9.png Graphic file (type png)
 <use imgs/chap5/ql_album_9.png>
 Package pdftex.def Info: imgs/chap5/ql_album_9.png  used on input line 156.
 (pdftex.def)             Requested size: 390.0pt x 208.4904pt.
 
 
-[40 <./imgs/chap5/ql_album_5.png> <./imgs/chap5/ql_album_6.png>]
-<imgs/chap5/ql_album_7.png, id=215, 1433.355pt x 544.28343pt>
+[42 <./imgs/chap5/ql_album_5.png> <./imgs/chap5/ql_album_6.png>]
+<imgs/chap5/ql_album_7.png, id=222, 1433.355pt x 544.28343pt>
 File: imgs/chap5/ql_album_7.png Graphic file (type png)
 <use imgs/chap5/ql_album_7.png>
 Package pdftex.def Info: imgs/chap5/ql_album_7.png  used on input line 163.
 (pdftex.def)             Requested size: 390.0pt x 148.08798pt.
 
 
-[41 <./imgs/chap5/ql_album_8.png> <./imgs/chap5/ql_album_9.png>]
-<imgs/chap5/ql_nghe_si_1.png, id=221, 1444.64719pt x 648.17157pt>
+[43 <./imgs/chap5/ql_album_8.png> <./imgs/chap5/ql_album_9.png>]
+<imgs/chap5/ql_nghe_si_1.png, id=228, 1444.64719pt x 648.17157pt>
 File: imgs/chap5/ql_nghe_si_1.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_1.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_1.png  used on input line 171.
 (pdftex.def)             Requested size: 390.0pt x 174.97899pt.
-<imgs/chap5/ql_nghe_si_2.png, id=222, 1221.81468pt x 604.50844pt>
+<imgs/chap5/ql_nghe_si_2.png, id=229, 1221.81468pt x 604.50844pt>
 File: imgs/chap5/ql_nghe_si_2.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_2.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_2.png  used on input line 178.
 (pdftex.def)             Requested size: 390.0pt x 192.95778pt.
-<imgs/chap5/ql_nghe_si_3.png, id=223, 1276.77pt x 594.72188pt>
+<imgs/chap5/ql_nghe_si_3.png, id=230, 1276.77pt x 594.72188pt>
 File: imgs/chap5/ql_nghe_si_3.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_3.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_3.png  used on input line 183.
 (pdftex.def)             Requested size: 390.0pt x 181.65761pt.
 
 
-[42 <./imgs/chap5/ql_album_7.png> <./imgs/chap5/ql_nghe_si_1.png>]
-<imgs/chap5/ql_nghe_si_4.png, id=230, 1444.64719pt x 636.87938pt>
+[44 <./imgs/chap5/ql_album_7.png> <./imgs/chap5/ql_nghe_si_1.png>]
+<imgs/chap5/ql_nghe_si_4.png, id=236, 1444.64719pt x 636.87938pt>
 File: imgs/chap5/ql_nghe_si_4.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_4.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_4.png  used on input line 190.
 (pdftex.def)             Requested size: 390.0pt x 171.93057pt.
-<imgs/chap5/ql_nghe_si_5.png, id=231, 1367.1075pt x 587.94656pt>
+<imgs/chap5/ql_nghe_si_5.png, id=237, 1367.1075pt x 587.94656pt>
 File: imgs/chap5/ql_nghe_si_5.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_5.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_5.png  used on input line 195.
 (pdftex.def)             Requested size: 390.0pt x 167.71902pt.
 
 
-[43 <./imgs/chap5/ql_nghe_si_2.png> <./imgs/chap5/ql_nghe_si_3.png>]
-<imgs/chap5/ql_nghe_si_6.png, id=237, 1209.76968pt x 633.11531pt>
+[45 <./imgs/chap5/ql_nghe_si_2.png> <./imgs/chap5/ql_nghe_si_3.png>]
+<imgs/chap5/ql_nghe_si_6.png, id=243, 1209.76968pt x 633.11531pt>
 File: imgs/chap5/ql_nghe_si_6.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_6.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_6.png  used on input line 202.
 (pdftex.def)             Requested size: 390.0pt x 204.09842pt.
-<imgs/chap5/ql_nghe_si_7.png, id=238, 1213.53375pt x 540.51938pt>
+<imgs/chap5/ql_nghe_si_7.png, id=244, 1213.53375pt x 540.51938pt>
 File: imgs/chap5/ql_nghe_si_7.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_7.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_7.png  used on input line 207.
 (pdftex.def)             Requested size: 390.0pt x 173.71202pt.
 
 
-[44 <./imgs/chap5/ql_nghe_si_4.png> <./imgs/chap5/ql_nghe_si_5.png>]
-<imgs/chap5/ql_nghe_si_9.png, id=244, 1224.82594pt x 482.55281pt>
+[46 <./imgs/chap5/ql_nghe_si_4.png> <./imgs/chap5/ql_nghe_si_5.png>]
+<imgs/chap5/ql_nghe_si_9.png, id=250, 1224.82594pt x 482.55281pt>
 File: imgs/chap5/ql_nghe_si_9.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_9.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_9.png  used on input line 214.
 (pdftex.def)             Requested size: 390.0pt x 153.64691pt.
-<imgs/chap5/ql_nghe_si_10.png, id=245, 1158.57843pt x 580.41844pt>
+<imgs/chap5/ql_nghe_si_10.png, id=251, 1158.57843pt x 580.41844pt>
 File: imgs/chap5/ql_nghe_si_10.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_10.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_10.png  used on input line 219.
 (pdftex.def)             Requested size: 390.0pt x 195.37352pt.
 
 
-[45 <./imgs/chap5/ql_nghe_si_6.png> <./imgs/chap5/ql_nghe_si_7.png>]
-<imgs/chap5/ql_nghe_si_8.png, id=251, 1431.09656pt x 575.14874pt>
+[47 <./imgs/chap5/ql_nghe_si_6.png> <./imgs/chap5/ql_nghe_si_7.png>]
+<imgs/chap5/ql_nghe_si_8.png, id=257, 1431.09656pt x 575.14874pt>
 File: imgs/chap5/ql_nghe_si_8.png Graphic file (type png)
 <use imgs/chap5/ql_nghe_si_8.png>
 Package pdftex.def Info: imgs/chap5/ql_nghe_si_8.png  used on input line 226.
 (pdftex.def)             Requested size: 390.0pt x 156.74028pt.
 
 
-[46 <./imgs/chap5/ql_nghe_si_9.png> <./imgs/chap5/ql_nghe_si_10.png>]
-<imgs/chap5/ql_loai_bai_hat_1.png, id=257, 1444.64719pt x 653.44125pt>
+[48 <./imgs/chap5/ql_nghe_si_9.png> <./imgs/chap5/ql_nghe_si_10.png>]
+<imgs/chap5/ql_loai_bai_hat_1.png, id=264, 1444.64719pt x 653.44125pt>
 File: imgs/chap5/ql_loai_bai_hat_1.png Graphic file (type png)
 <use imgs/chap5/ql_loai_bai_hat_1.png>
 Package pdftex.def Info: imgs/chap5/ql_loai_bai_hat_1.png  used on input line 234.
 (pdftex.def)             Requested size: 390.0pt x 176.40158pt.
-<imgs/chap5/ql_loai_bai_hat_2.png, id=258, 1061.46562pt x 490.83376pt>
+<imgs/chap5/ql_loai_bai_hat_2.png, id=265, 1061.46562pt x 490.83376pt>
 File: imgs/chap5/ql_loai_bai_hat_2.png Graphic file (type png)
 <use imgs/chap5/ql_loai_bai_hat_2.png>
 Package pdftex.def Info: imgs/chap5/ql_loai_bai_hat_2.png  used on input line 241.
 (pdftex.def)             Requested size: 390.0pt x 180.3399pt.
-<imgs/chap5/ql_loai_bai_hat_3.png, id=259, 1132.23pt x 502.12593pt>
+<imgs/chap5/ql_loai_bai_hat_3.png, id=266, 1132.23pt x 502.12593pt>
 File: imgs/chap5/ql_loai_bai_hat_3.png Graphic file (type png)
 <use imgs/chap5/ql_loai_bai_hat_3.png>
 Package pdftex.def Info: imgs/chap5/ql_loai_bai_hat_3.png  used on input line 246.
 (pdftex.def)             Requested size: 390.0pt x 172.95781pt.
 
 
-[47 <./imgs/chap5/ql_nghe_si_8.png> <./imgs/chap5/ql_loai_bai_hat_1.png>]
-<imgs/chap5/ql_loai_bai_hat_4.png, id=265, 1444.64719pt x 512.66531pt>
+[49 <./imgs/chap5/ql_nghe_si_8.png> <./imgs/chap5/ql_loai_bai_hat_1.png>]
+<imgs/chap5/ql_loai_bai_hat_4.png, id=272, 1444.64719pt x 512.66531pt>
 File: imgs/chap5/ql_loai_bai_hat_4.png Graphic file (type png)
 <use imgs/chap5/ql_loai_bai_hat_4.png>
 Package pdftex.def Info: imgs/chap5/ql_loai_bai_hat_4.png  used on input line 253.
 (pdftex.def)             Requested size: 390.0pt x 138.39801pt.
 
 
-[48 <./imgs/chap5/ql_loai_bai_hat_2.png> <./imgs/chap5/ql_loai_bai_hat_3.png>]
-<imgs/chap5/thongke_1.png, id=272, 1433.355pt x 653.44125pt>
+[50 <./imgs/chap5/ql_loai_bai_hat_2.png> <./imgs/chap5/ql_loai_bai_hat_3.png>]
+<imgs/chap5/thongke_1.png, id=278, 1433.355pt x 653.44125pt>
 File: imgs/chap5/thongke_1.png Graphic file (type png)
 <use imgs/chap5/thongke_1.png>
 Package pdftex.def Info: imgs/chap5/thongke_1.png  used on input line 261.
 (pdftex.def)             Requested size: 390.0pt x 177.7875pt.
-<imgs/chap5/thongke_2.png, id=273, 1441.63594pt x 655.69969pt>
+<imgs/chap5/thongke_2.png, id=279, 1441.63594pt x 655.69969pt>
 File: imgs/chap5/thongke_2.png Graphic file (type png)
 <use imgs/chap5/thongke_2.png>
 Package pdftex.def Info: imgs/chap5/thongke_2.png  used on input line 268.
 (pdftex.def)             Requested size: 390.0pt x 177.38145pt.
 ) (pages/chap5/chat.tex
 
-[49 <./imgs/chap5/ql_loai_bai_hat_4.png> <./imgs/chap5/thongke_1.png>]
-<imgs/chap5/chat.png, id=279, 1444.64719pt x 766.36313pt>
+[51 <./imgs/chap5/ql_loai_bai_hat_4.png> <./imgs/chap5/thongke_1.png>]
+<imgs/chap5/chat.png, id=285, 1444.64719pt x 766.36313pt>
 File: imgs/chap5/chat.png Graphic file (type png)
 <use imgs/chap5/chat.png>
 Package pdftex.def Info: imgs/chap5/chat.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 206.88573pt.
 ) (pages/chap5/tim_kiem.tex
-<imgs/chap5/tim_kiem_1.png, id=280, 1444.64719pt x 573.64313pt>
+<imgs/chap5/tim_kiem_1.png, id=286, 1444.64719pt x 573.64313pt>
 File: imgs/chap5/tim_kiem_1.png Graphic file (type png)
 <use imgs/chap5/tim_kiem_1.png>
 Package pdftex.def Info: imgs/chap5/tim_kiem_1.png  used on input line 6.
 (pdftex.def)             Requested size: 390.0pt x 154.85945pt.
 
 
-[50 <./imgs/chap5/thongke_2.png> <./imgs/chap5/chat.png>]
-<imgs/chap5/tim_kiem_2.png, id=286, 1444.64719pt x 588.69937pt>
+[52 <./imgs/chap5/thongke_2.png> <./imgs/chap5/chat.png>]
+<imgs/chap5/tim_kiem_2.png, id=292, 1444.64719pt x 588.69937pt>
 File: imgs/chap5/tim_kiem_2.png Graphic file (type png)
 <use imgs/chap5/tim_kiem_2.png>
 Package pdftex.def Info: imgs/chap5/tim_kiem_2.png  used on input line 12.
 (pdftex.def)             Requested size: 390.0pt x 158.924pt.
-<imgs/chap5/tim_kiem_3.png, id=287, 1444.64719pt x 475.7775pt>
+<imgs/chap5/tim_kiem_3.png, id=293, 1444.64719pt x 475.7775pt>
 File: imgs/chap5/tim_kiem_3.png Graphic file (type png)
 <use imgs/chap5/tim_kiem_3.png>
 Package pdftex.def Info: imgs/chap5/tim_kiem_3.png  used on input line 18.
 (pdftex.def)             Requested size: 390.0pt x 128.43985pt.
 
 
-[51 <./imgs/chap5/tim_kiem_1.png> <./imgs/chap5/tim_kiem_2.png>]
-<imgs/chap5/tim_kiem_4.png, id=293, 1444.64719pt x 507.39563pt>
+[53 <./imgs/chap5/tim_kiem_1.png> <./imgs/chap5/tim_kiem_2.png>]
+<imgs/chap5/tim_kiem_4.png, id=299, 1444.64719pt x 507.39563pt>
 File: imgs/chap5/tim_kiem_4.png Graphic file (type png)
 <use imgs/chap5/tim_kiem_4.png>
 Package pdftex.def Info: imgs/chap5/tim_kiem_4.png  used on input line 24.
 (pdftex.def)             Requested size: 390.0pt x 136.97542pt.
-<imgs/chap5/tim_kiem_5.png, id=294, 1272.25313pt x 602.25pt>
+<imgs/chap5/tim_kiem_5.png, id=300, 1272.25313pt x 602.25pt>
 File: imgs/chap5/tim_kiem_5.png Graphic file (type png)
 <use imgs/chap5/tim_kiem_5.png>
 Package pdftex.def Info: imgs/chap5/tim_kiem_5.png  used on input line 33.
 (pdftex.def)             Requested size: 390.0pt x 184.60953pt.
 ) (pages/chap5/chat.tex
 
-[52 <./imgs/chap5/tim_kiem_3.png> <./imgs/chap5/tim_kiem_4.png>]
+[54 <./imgs/chap5/tim_kiem_3.png> <./imgs/chap5/tim_kiem_4.png>]
 File: imgs/chap5/chat.png Graphic file (type png)
 <use imgs/chap5/chat.png>
 Package pdftex.def Info: imgs/chap5/chat.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 206.88573pt.
 ) (pages/chap5/premium.tex
-<imgs/chap5/premium_1.png, id=300, 1444.64719pt x 648.92438pt>
+<imgs/chap5/premium_1.png, id=307, 1444.64719pt x 648.92438pt>
 File: imgs/chap5/premium_1.png Graphic file (type png)
 <use imgs/chap5/premium_1.png>
 Package pdftex.def Info: imgs/chap5/premium_1.png  used on input line 5.
 (pdftex.def)             Requested size: 390.0pt x 175.18222pt.
 
 
-[53 <./imgs/chap5/tim_kiem_5.png>]
-<imgs/chap5/premium_2.png, id=305, 1444.64719pt x 646.66594pt>
+[55 <./imgs/chap5/tim_kiem_5.png>]
+<imgs/chap5/premium_2.png, id=312, 1444.64719pt x 646.66594pt>
 File: imgs/chap5/premium_2.png Graphic file (type png)
 <use imgs/chap5/premium_2.png>
 Package pdftex.def Info: imgs/chap5/premium_2.png  used on input line 12.
 (pdftex.def)             Requested size: 390.0pt x 174.57253pt.
-<imgs/chap5/premium_2_1.png, id=306, 1444.64719pt x 645.91313pt>
+<imgs/chap5/premium_2_1.png, id=313, 1444.64719pt x 645.91313pt>
 File: imgs/chap5/premium_2_1.png Graphic file (type png)
 <use imgs/chap5/premium_2_1.png>
 Package pdftex.def Info: imgs/chap5/premium_2_1.png  used on input line 17.
 (pdftex.def)             Requested size: 390.0pt x 174.36931pt.
-<imgs/chap5/premium_2_2.png, id=307, 1444.64719pt x 644.4075pt>
+<imgs/chap5/premium_2_2.png, id=314, 1444.64719pt x 644.4075pt>
 File: imgs/chap5/premium_2_2.png Graphic file (type png)
 <use imgs/chap5/premium_2_2.png>
 Package pdftex.def Info: imgs/chap5/premium_2_2.png  used on input line 22.
 (pdftex.def)             Requested size: 390.0pt x 173.96284pt.
 
 
-[54 <./imgs/chap5/premium_1.png> <./imgs/chap5/premium_2.png>]
-<imgs/chap5/premium_4.png, id=314, 1444.64719pt x 645.16031pt>
+[56 <./imgs/chap5/premium_1.png> <./imgs/chap5/premium_2.png>]
+<imgs/chap5/premium_4.png, id=320, 1444.64719pt x 645.16031pt>
 File: imgs/chap5/premium_4.png Graphic file (type png)
 <use imgs/chap5/premium_4.png>
 Package pdftex.def Info: imgs/chap5/premium_4.png  used on input line 30.
 (pdftex.def)             Requested size: 390.0pt x 174.16608pt.
-<imgs/chap5/premium_4_1.png, id=315, 1444.64719pt x 635.37375pt>
+<imgs/chap5/premium_4_1.png, id=321, 1444.64719pt x 635.37375pt>
 File: imgs/chap5/premium_4_1.png Graphic file (type png)
 <use imgs/chap5/premium_4_1.png>
 Package pdftex.def Info: imgs/chap5/premium_4_1.png  used on input line 35.
 (pdftex.def)             Requested size: 390.0pt x 171.52411pt.
 
 
-[55 <./imgs/chap5/premium_2_1.png> <./imgs/chap5/premium_2_2.png>]) (pages/chap5/bxh.tex
-<imgs/chap5/bang_xep_hang_albumhot.png, id=321, 1172.88188pt x 651.18282pt>
+[57 <./imgs/chap5/premium_2_1.png> <./imgs/chap5/premium_2_2.png>]) (pages/chap5/bxh.tex
+<imgs/chap5/bang_xep_hang_albumhot.png, id=327, 1172.88188pt x 651.18282pt>
 File: imgs/chap5/bang_xep_hang_albumhot.png Graphic file (type png)
 <use imgs/chap5/bang_xep_hang_albumhot.png>
 Package pdftex.def Info: imgs/chap5/bang_xep_hang_albumhot.png  used on input line 7.
 (pdftex.def)             Requested size: 390.0pt x 216.52054pt.
 ))
 
-[56 <./imgs/chap5/premium_4.png> <./imgs/chap5/premium_4_1.png>]
+[58 <./imgs/chap5/premium_4.png> <./imgs/chap5/premium_4_1.png>]
 
-[57 <./imgs/chap5/bang_xep_hang_albumhot.png>]
+[59 <./imgs/chap5/bang_xep_hang_albumhot.png>]
 Ch\uhorn \ohorn ng 6.
-(chapters/6_HuongPhatTrien.tex
+(chapters/6_HuongPhatTrien.tex)
 
-[58
+[60
 
-] (main.aux)
+]
+Ch\uhorn \ohorn ng 7.
+(chapters/7_CachCaiDat.tex
+
+[61
+
+]
+Overfull \hbox (15.95773pt too wide) in paragraph at lines 29--29
+ []\T5/cmtt/m/n/12 git clone https://github.com/duylam15/react-clone-spotify.git[] 
+ []
+
+)
+
+[62] (main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
- ) ) 
+ ) 
 Here is how much of TeX's memory you used:
- 4106 strings out of 473523
- 83409 string characters out of 5714631
- 546806 words of memory out of 5000000
- 27221 multiletter control sequences out of 15000+600000
+ 4243 strings out of 473523
+ 85723 string characters out of 5714631
+ 553228 words of memory out of 5000000
+ 27345 multiletter control sequences out of 15000+600000
  571008 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  79i,7n,93p,1826b,355s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\ADMIN\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnbx12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr10.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vnr12.pfb><C:/Users/ADMIN/AppData/Local/Programs/MiKTeX/fonts/type1/vntex/vnr/vntt12.pfb>
-Output written on main.pdf (59 pages, 13953096 bytes).
+Output written on main.pdf (63 pages, 13964052 bytes).
 PDF statistics:
- 358 PDF objects out of 1000 (max. 8388607)
+ 371 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  371 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -53,6 +53,8 @@ INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.t
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
+INPUT C:\Users\Admin\AppData\Local\Programs\MiKTeX\tex\latex\tools\longtable.sty
 INPUT .\main.aux
 INPUT .\main.aux
 INPUT main.aux
@@ -102,6 +104,10 @@ INPUT .\main.toc
 INPUT .\main.toc
 INPUT main.toc
 OUTPUT main.toc
+INPUT .\main.lof
+INPUT .\main.lof
+INPUT main.lof
+OUTPUT main.lof
 INPUT .\pages\header\thanks.tex
 INPUT .\pages\header\thanks.tex
 INPUT .\pages\header\thanks.tex
@@ -132,6 +138,11 @@ INPUT .\pages\chap1\MucTieu.tex
 INPUT .\pages\chap1\MucTieu.tex
 INPUT .\pages\chap1\MucTieu.tex
 INPUT pages\chap1\MucTieu.tex
+INPUT .\pages\chap1\phancong.tex
+INPUT .\pages\chap1\phancong.tex
+INPUT .\pages\chap1\phancong.tex
+INPUT .\pages\chap1\phancong.tex
+INPUT pages\chap1\phancong.tex
 INPUT .\chapters\2_DacTa.tex
 INPUT .\chapters\2_DacTa.tex
 INPUT chapters\2_DacTa.tex
@@ -710,6 +721,9 @@ INPUT .\imgs\chap5\bang_xep_hang_albumhot.png
 INPUT .\chapters\6_HuongPhatTrien.tex
 INPUT .\chapters\6_HuongPhatTrien.tex
 INPUT chapters\6_HuongPhatTrien.tex
+INPUT .\chapters\7_CachCaiDat.tex
+INPUT .\chapters\7_CachCaiDat.tex
+INPUT chapters\7_CachCaiDat.tex
 INPUT main.aux
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
 INPUT C:\Users\Admin\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1200.pk
