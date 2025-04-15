@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1744460575.83913 "d:/HOC_TAP/CHUONG_TRINH_DAI_HOC/HOCKI_3_2/PhatTrienPhanMemMaNguonMo/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1744460583.80432 0
+["pdflatex"] 1744700310.56385 "d:/HOC_TAP/CHUONG_TRINH_DAI_HOC/HOCKI_3_2/PhatTrienPhanMemMaNguonMo/Bao_Cao_PMMNM/main.tex" "main.pdf" "main" 1744700318.66446 0
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1744359032 88371 b965f57369ed322039596060d18f4416 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1744203018 14064 96891276c42f926d9852401a1e1f66e7 ""
   "C:/Users/Admin/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1744202974 24225045 96826f0c8d3409077a2ed6a9b71cd563 ""
@@ -54,7 +54,7 @@
   "chapters/4_CSDL.tex" 1744200233 50 ce667bd7fbb2af7c6cd2e87168297cc3 ""
   "chapters/5_KetQua.tex" 1744460550 500 cc5094aef879be072cc9ae4b18270f54 ""
   "chapters/6_HuongPhatTrien.tex" 1744200233 2014 a10591d96878d1b5267a041dc3c076f1 ""
-  "d:/HOC_TAP/CHUONG_TRINH_DAI_HOC/HOCKI_3_2/PhatTrienPhanMemMaNguonMo/Bao_Cao_PMMNM/main.tex" 1744359022 925 8d922f7ad35ce9f2c03e563a81bbcf09 ""
+  "d:/HOC_TAP/CHUONG_TRINH_DAI_HOC/HOCKI_3_2/PhatTrienPhanMemMaNguonMo/Bao_Cao_PMMNM/main.tex" 1744700292 941 ec757ea8de91257b351b82985ca08997 ""
   "imgs/API.png" 1744200233 291355 8c8f2d39ece7d7690eacb14f54411842 ""
   "imgs/ERD.png" 1744200233 1302053 8390cb90d3534000b1e6ba072ac4aecc ""
   "imgs/aws.png" 1744200233 134796 c8a66f5b7cfe87ed7fd774b502b429ea ""
@@ -129,9 +129,10 @@
   "imgs/react.png" 1744200233 147038 331f0e1ff6f79c625a6156697ef82ccb ""
   "imgs/spotify.png" 1744200233 1078628 12749d50144559e6f7f3a51a1b01ea88 ""
   "imgs/websocket.png" 1744200233 55415 9346aa649bf4ec37efa9c9ed95128786 ""
-  "main.aux" 1744460583 15880 9b928ad739b4207ce431c1879e7819df "pdflatex"
-  "main.tex" 1744359022 925 8d922f7ad35ce9f2c03e563a81bbcf09 ""
-  "main.toc" 1744460583 4079 63cc92c38989d27b63c2495d6810b41c "pdflatex"
+  "main.aux" 1744700318 15888 0322a61ef63d6eebf6faec3f803aa06c "pdflatex"
+  "main.lof" 1744700318 6516 9afba4ac9d053c8a32348eabff1b822c "pdflatex"
+  "main.tex" 1744700292 941 ec757ea8de91257b351b82985ca08997 ""
+  "main.toc" 1744700318 4087 2224d2658e8ebb357e0362760b245381 "pdflatex"
   "pages/chap1/LyDo.tex" 1744200233 858 1300c60626ba2c18fc95c2997b3b0a4c ""
   "pages/chap1/MucTieu.tex" 1744200233 1591 19b75b3afdeec73a3c9a41985c324b3b ""
   "pages/chap1/SoLuoc.tex" 1744200233 1200 42d3cfd69e461f39b997d2c6b32adaa3 ""
@@ -154,6 +155,7 @@
   "pages/header/title.tex" 1744200233 1204 75fe093a361c23eab11a32f391ec1b5f ""
   (generated)
   "main.aux"
+  "main.lof"
   "main.log"
   "main.pdf"
   "main.toc"
