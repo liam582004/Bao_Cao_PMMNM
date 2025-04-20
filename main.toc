@@ -38,23 +38,24 @@
 \contentsline {section}{\numberline {5.4}Chức năng tạo album và đánh dấu bài hát yêu thích}{29}{}%
 \contentsline {subsection}{\numberline {5.4.1}Chức năng tạo album}{29}{}%
 \contentsline {subsection}{\numberline {5.4.2}Chức năng đánh dấu bài hát yêu thích}{32}{}%
-\contentsline {section}{\numberline {5.5}Quản trị}{32}{}%
-\contentsline {subsection}{\numberline {5.5.1}Quản lý người dùng}{32}{}%
-\contentsline {subsection}{\numberline {5.5.2}Quản lý bài hát}{35}{}%
-\contentsline {subsection}{\numberline {5.5.3}Quản lý album}{40}{}%
-\contentsline {subsection}{\numberline {5.5.4}Quản lý nghệ sĩ}{44}{}%
-\contentsline {subsection}{\numberline {5.5.5}Quản lý loại bài hát}{49}{}%
-\contentsline {subsection}{\numberline {5.5.6}Thống kê}{51}{}%
-\contentsline {section}{\numberline {5.6}Tính năng chat tích hợp}{52}{}%
-\contentsline {section}{\numberline {5.7}Chức năng tìm kiếm}{53}{}%
-\contentsline {subsection}{\numberline {5.7.1}Tìm kiếm theo từ khóa}{53}{}%
-\contentsline {subsection}{\numberline {5.7.2}Tìm kiếm bài hát dựa trên tệp ghi âm}{54}{}%
-\contentsline {section}{\numberline {5.8}Tính năng chat tích hợp}{55}{}%
-\contentsline {section}{\numberline {5.9}Premium}{56}{}%
-\contentsline {subsection}{\numberline {5.9.1}Mua Premium thanh toán bằng PayPal}{56}{}%
-\contentsline {subsection}{\numberline {5.9.2}Mua Premium thanh toán bằng Zalo pay}{58}{}%
-\contentsline {section}{\numberline {5.10}Bảng xếp hạng và album hot}{58}{}%
-\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{60}{}%
-\contentsline {chapter}{\numberline {7}MÔI TRƯỜNG CHẠY ỨNG DỤNG VÀ CÁCH CÀI ĐẶT}{61}{}%
-\contentsline {section}{\numberline {7.1}Môi trường chạy ứng dụng}{61}{}%
-\contentsline {section}{\numberline {7.2}Cách cài đặt}{61}{}%
+\contentsline {section}{\numberline {5.5}Chức năng tạo playlist theo cảm xúc}{32}{}%
+\contentsline {section}{\numberline {5.6}Quản trị}{33}{}%
+\contentsline {subsection}{\numberline {5.6.1}Quản lý người dùng}{33}{}%
+\contentsline {subsection}{\numberline {5.6.2}Quản lý bài hát}{37}{}%
+\contentsline {subsection}{\numberline {5.6.3}Quản lý album}{41}{}%
+\contentsline {subsection}{\numberline {5.6.4}Quản lý nghệ sĩ}{45}{}%
+\contentsline {subsection}{\numberline {5.6.5}Quản lý loại bài hát}{50}{}%
+\contentsline {subsection}{\numberline {5.6.6}Thống kê}{52}{}%
+\contentsline {section}{\numberline {5.7}Tính năng chat tích hợp}{53}{}%
+\contentsline {section}{\numberline {5.8}Chức năng tìm kiếm}{54}{}%
+\contentsline {subsection}{\numberline {5.8.1}Tìm kiếm theo từ khóa}{54}{}%
+\contentsline {subsection}{\numberline {5.8.2}Tìm kiếm bài hát dựa trên tệp ghi âm}{56}{}%
+\contentsline {section}{\numberline {5.9}Tính năng chat tích hợp}{56}{}%
+\contentsline {section}{\numberline {5.10}Premium}{57}{}%
+\contentsline {subsection}{\numberline {5.10.1}Mua Premium thanh toán bằng PayPal}{58}{}%
+\contentsline {subsection}{\numberline {5.10.2}Mua Premium thanh toán bằng Zalo pay}{59}{}%
+\contentsline {section}{\numberline {5.11}Bảng xếp hạng và album hot}{60}{}%
+\contentsline {chapter}{\numberline {6}HƯỚNG PHÁT TRIỂN}{61}{}%
+\contentsline {chapter}{\numberline {7}MÔI TRƯỜNG CHẠY ỨNG DỤNG VÀ CÁCH CÀI ĐẶT}{62}{}%
+\contentsline {section}{\numberline {7.1}Môi trường chạy ứng dụng}{62}{}%
+\contentsline {section}{\numberline {7.2}Cách cài đặt}{62}{}%
